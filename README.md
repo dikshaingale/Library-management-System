@@ -32,4 +32,3 @@ The Library Management System (LMS) project aims to streamline library operation
 
 ## Acknowledgments
 - Special thanks to [Spring Boot](https://spring.io/projects/spring-boot) and [Bootstrap](https://getbootstrap.com/) for their awesome frameworks.
-# Library-management-System
