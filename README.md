@@ -19,9 +19,9 @@ Welcome to the Library Management System (LMS) project! This project is develope
 
 ## Setup Instructions
 1. Clone the repository: `git clone https://github.com/dikshaingale/Library-management-System.git`
-2. Navigate to the project directory: `cd lms-project`
+2. Navigate to the project directory: `cd Library-management-System`
 3. Build the project: `mvn clean install`
-4. Run the application: `java -jar target/lms-project.jar`
+4. Run the application: `java -jar target/Library-management-System.jar`
 5. Access the application in your browser at: `http://localhost:8080`
 
 ## Video Demonstration
